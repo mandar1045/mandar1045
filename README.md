@@ -24,3 +24,17 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 ![Web Development](https://img.shields.io/badge/Web%20Development-FF4500?style=for-the-badge&logo=react&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
+### 📊 GitHub Stats
+![Mandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandar1045&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&layout=compact&theme=radical)
+
+
+### 📫 Connect with Me
+[![LinkedIn](www.linkedin.com/in/mandar-joshi-0b951b28a)
+[![Instagram](https://www.instagram.com/mandar._2005/)
+[![Email](https://mail.google.com/mail/u/0/#inbox)
+
+### 🔥 Streaks & Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARI-create193&theme=github-dark)
+
