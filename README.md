@@ -29,6 +29,8 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&layout=compact&theme=radical)
 
 
+
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandar-joshi-0b951b28a/)
 
