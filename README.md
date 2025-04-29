@@ -29,7 +29,7 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 ![DSA](https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 ### 📊 GitHub Stats
-![mandar1045's Stats](https://github-readme-stats.vercel.app/api?username=mandar1045&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandar1045&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![mandar1045's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
