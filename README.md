@@ -36,5 +36,5 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 
 ### 🔥 Streaks & Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARI-create193&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mandar1045&theme=github-dark)
 
