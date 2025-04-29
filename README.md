@@ -27,6 +27,7 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 ![NLP](https://img.shields.io/badge/NLP-1A73E8?style=for-the-badge&logo=google&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-FF4500?style=for-the-badge&logo=react&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-008000?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📊 GitHub Stats
 ![mandar1045's Stats](https://github-readme-stats.vercel.app/api?username=mandar1045&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
