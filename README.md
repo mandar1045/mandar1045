@@ -32,6 +32,8 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 ### 📊 GitHub Stats
 ![mandar1045's Stats](https://github-readme-stats.vercel.app/api?username=mandar1045&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![mandar1045's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![image](https://github.com/user-attachments/assets/aef336bf-e913-4f0d-a4a2-7ae93b60e60a)
+
 
 
 
