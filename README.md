@@ -32,7 +32,7 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 
 ### 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mandar1045?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-![mandar1045's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&theme=tokyonight)
 
 
 
