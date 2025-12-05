@@ -3,7 +3,7 @@
 # Hi there, I'm Mandar Joshi! 👋
 
 ### 🚀 About Me
-I'm a **1st year  student at VIT Vellore**, passionate about **Web Development and Python-based projects**. I love exploring **DSA** alongside my projects to strengthen my problem-solving skills.
+I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development and Python-based projects**. I love exploring **DSA** alongside my projects to strengthen my problem-solving skills.
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
@@ -31,8 +31,8 @@ I'm a **1st year  student at VIT Vellore**, passionate about **Web Development a
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📊 GitHub Stats
-![mandar1045's Stats](https://github-readme-stats.vercel.app/api?username=mandar1045&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![mandar1045's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mandar1045?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Mandar's Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mandar1045&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/mandar1045)
 
 
 
