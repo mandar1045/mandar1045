@@ -3,7 +3,7 @@
 # Hi there, I'm Mandar Joshi! 👋
 
 ### 🚀 About Me
-I'm a **1st year  student at VIT Vellore**, passionate about **Web Development and Python-based projects**. I love exploring **DSA** alongside my projects to strengthen my problem-solving skills.
+I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development and Python-based projects**. I love exploring **DSA** alongside my projects to strengthen my problem-solving skills.
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
