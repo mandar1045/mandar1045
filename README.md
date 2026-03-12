@@ -31,9 +31,9 @@ I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development a
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mandar1045?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-[![Mandar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mandar1045&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/mandar1045)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandar1045&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=mandar1045&theme=tokyonight&hide_border=true)
 
 
 
