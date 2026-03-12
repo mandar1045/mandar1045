@@ -1,6 +1,7 @@
 
 
 #About Me
+
 👋 Hi, I'm Mandar Joshi
 I'm a Software Engineer and AI enthusiast passionate about building scalable systems, automation platforms, and real-time applications. I enjoy combining AI/ML with modern full-stack development to solve complex problems and deliver production-grade systems.
 
