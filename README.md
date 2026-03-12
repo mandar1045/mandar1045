@@ -1,9 +1,15 @@
 
 
-# Hi there, I'm Mandar Joshi! 👋
+#👋 Hi, I'm Mandar Joshi
+I'm a Software Engineer and AI enthusiast passionate about building scalable systems, automation platforms, and real-time applications. I enjoy combining AI/ML with modern full-stack development to solve complex problems and deliver production-grade systems.
 
-### 🚀 About Me
-I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development and Python-based projects**. I love exploring **DSA** alongside my projects to strengthen my problem-solving skills.
+🚀 What I Do
+🤖 Build AI-powered automation platforms
+⚡ Develop scalable microservices and APIs
+🌐 Create full-stack web applications
+📦 Deploy cloud-native systems using Docker, AWS, and CI/CD
+🧠 Work with NLP, Computer Vision, and Machine Learning
+
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
