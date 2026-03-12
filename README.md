@@ -32,7 +32,7 @@ I'm a **2nd year  student at VIT Vellore**, passionate about **Web Development a
 
 ### 📊 GitHub Stats
 ![Mandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandar1045&theme=radical&v=1)
-[![Mandar's GitHub Streak](https://streak-stats.demolab.com?user=mandar1045&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats-henna.vercel.app/?user=mandar1045)](https://git.io/streak-stats)
 
 
 
