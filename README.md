@@ -13,29 +13,44 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes focus" />
-  <img src="https://img.shields.io/badge/GitOps-Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD badge" />
-  <img src="https://img.shields.io/badge/Autoscaling-KEDA-5A3EF0?style=for-the-badge&logo=keda&logoColor=white" alt="KEDA badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-FOSSology-1F6FEB?style=for-the-badge" alt="FOSSology badge" />
-  <img src="https://img.shields.io/badge/GSoC-2026-34A853?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2026 badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes badge" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD badge" />
+  <img src="https://img.shields.io/badge/KEDA-5A3EF0?style=for-the-badge&logo=keda&logoColor=white" alt="KEDA badge" />
+  <img src="https://img.shields.io/badge/AI%20Automation-0F766E?style=for-the-badge" alt="AI automation badge" />
 </p>
 
-I’m a software engineer focused on cloud-native systems, open-source infrastructure, and developer tooling. Right now, I’m spending most of my time on Kubernetes-native architecture, GitOps workflows with Argo CD, and event-driven scaling patterns with KEDA while contributing actively to FOSSology through GSoC-focused work.
+I like building systems that actually do work: cloud-native deployments, AI automation flows, backend platforms, and open-source fixes that make real products more reliable.
 
-## What I'm Working On
+Right now I’m deep into Kubernetes, Argo CD, Helm, KEDA, queues, and developer tooling, while also building automation-heavy products and contributing upstream where I can.
 
-- Building Kubernetes-first systems that are practical to deploy, debug, and scale.
-- Going deeper on GitOps workflows with Argo CD, Helm, and environment-based deployments.
-- Exploring autoscaling and event-driven platform patterns with KEDA.
-- Contributing fixes and proof-of-concepts to the FOSSology ecosystem.
+## What I'm Building
 
-## Open Source and GSoC
+- Cloud-native systems with Kubernetes, Helm, GitOps workflows, and autoscaling.
+- AI-powered automation products that connect inboxes, workflows, queues, and APIs.
+- Open-source improvements around reliability, imports, APIs, and backend behavior.
 
-- Working on [`fossology-k8s-poc`](https://github.com/mandar1045/fossology-k8s-poc), a GSoC 2026 proof of concept for running FOSSology with scalable Kubernetes worker pods, dynamic scheduler host registration, Helm, and Argo CD deployment support.
-- Building [`ubice-poc`](https://github.com/mandar1045/ubice-poc), a proof of concept around binary intelligence and compliance workflows for FOSSology.
-- Contributing upstream fixes to [`fossology/fossology`](https://github.com/fossology/fossology) across API robustness, import flows, package handling, and scheduler-adjacent reliability.
+## Projects Worth Checking Out
 
-### Recent FOSSology Contributions
+- **Continum** *(private / active build)*  
+  AI-powered email automation and workflow platform with Gmail integration, relationship memory, no-code workflows, queues, and a multi-service stack built with Next.js, NestJS, FastAPI, PostgreSQL, Redis, and Qdrant.
+
+- [`fossology-k8s-poc`](https://github.com/mandar1045/fossology-k8s-poc)  
+  A Kubernetes-native FOSSology deployment proof of concept with scalable worker pods, dynamic scheduler host syncing, Helm packaging, and Argo CD-ready deployment structure.
+
+- [`ubice-poc`](https://github.com/mandar1045/ubice-poc)  
+  A binary intelligence and compliance proof of concept focused on fingerprinting compiled artifacts and generating SBOM-oriented outputs for the FOSSology ecosystem.
+
+- [`openclaw`](https://github.com/mandar1045/openclaw)  
+  A personal AI assistant project aimed at cross-platform automation and AI-first workflows.
+
+- [`mandarjoshi-portfolio`](https://mandarjoshi-portfolio.vercel.app)  
+  My portfolio site, where I showcase what I’m building and what I’m learning.
+
+## Open Source
+
+I’m actively contributing to FOSSology and building around problems that sit close to infrastructure, compliance workflows, and backend reliability.
+
+Some recent contributions:
 
 - [`fix: harden obligation import handling`](https://github.com/fossology/fossology/pull/3574)
 - [`fix(pkgagent): wrong Binary field, unsafe strcpy, NULL-before-free, and HTML double-encoding in package info`](https://github.com/fossology/fossology/pull/3555)
@@ -43,49 +58,21 @@ I’m a software engineer focused on cloud-native systems, open-source infrastru
 - [`fix(api): null safety and wrong status codes in GroupController member endpoints`](https://github.com/fossology/fossology/pull/3477)
 - [`fix(api): fix null crash and N+1 queries in GET uploads/{id}/licenses/scanned`](https://github.com/fossology/fossology/pull/3456)
 
-## Tech Stack
-
-### Cloud Native
+## Stack I Use Often
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![KEDA](https://img.shields.io/badge/KEDA-5A3EF0?style=for-the-badge&logo=keda&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Backend and Engineering
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## Featured Work
-
-- [`fossology-k8s-poc`](https://github.com/mandar1045/fossology-k8s-poc)  
-  Kubernetes-native FOSSology deployment PoC with scalable worker pods, scheduler-aware host syncing, Helm packaging, and Argo CD manifests.
-
-- [`ubice-poc`](https://github.com/mandar1045/ubice-poc)  
-  A GSoC 2026 proof of concept for binary fingerprinting, compliance intelligence, and SBOM-oriented workflows in the FOSSology ecosystem.
-
-- [`mandarjoshi-portfolio`](https://mandarjoshi-portfolio.vercel.app)  
-  My personal portfolio site and a place where I showcase projects, interests, and ongoing work.
-
-## Current Direction
-
-```text
-Kubernetes architecture -> GitOps delivery -> autoscaling patterns -> open-source platform engineering
-```
-
-That’s the path I’m actively sharpening right now, especially through hands-on work around FOSSology, Helm-driven deployments, Argo CD flows, and KEDA-oriented scaling ideas.
 
 ## GitHub Stats
 
