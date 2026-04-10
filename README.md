@@ -31,7 +31,9 @@ Right now I’m deep into Kubernetes, Argo CD, Helm, KEDA, queues, and developer
 
 ## Projects Worth Checking Out
 
-- **Continum** *(private / active build)*  
+- **Continum** *(private / active build)*
+- https://continum.online
+  
   AI-powered email automation and workflow platform with Gmail integration, relationship memory, no-code workflows, queues, and a multi-service stack built with Next.js, NestJS, FastAPI, PostgreSQL, Redis, and Qdrant.
 
 - [`fossology-k8s-poc`](https://github.com/mandar1045/fossology-k8s-poc)  
