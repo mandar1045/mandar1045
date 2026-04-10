@@ -32,7 +32,7 @@ Right now I’m deep into Kubernetes, Argo CD, Helm, KEDA, queues, and developer
 ## Projects Worth Checking Out
 
 - **Continum** *(private / active build)*
-- https://continum.online
+- https://continum.online/
   
   AI-powered email automation and workflow platform with Gmail integration, relationship memory, no-code workflows, queues, and a multi-service stack built with Next.js, NestJS, FastAPI, PostgreSQL, Redis, and Qdrant.
 
