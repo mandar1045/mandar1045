@@ -42,9 +42,6 @@ Right now I’m deep into Kubernetes, Argo CD, Helm, KEDA, queues, and developer
 - [`ubice-poc`](https://github.com/mandar1045/ubice-poc)  
   A binary intelligence and compliance proof of concept focused on fingerprinting compiled artifacts and generating SBOM-oriented outputs for the FOSSology ecosystem.
 
-- [`openclaw`](https://github.com/mandar1045/openclaw)  
-  A personal AI assistant project aimed at cross-platform automation and AI-first workflows.
-
 - [`mandarjoshi-portfolio`](https://mandarjoshi-portfolio.vercel.app)  
   My portfolio site, where I showcase what I’m building and what I’m learning.
 
