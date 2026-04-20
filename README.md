@@ -39,9 +39,6 @@ Right now I’m deep into Kubernetes, Argo CD, Helm, KEDA, queues, and developer
 - [`fossology-k8s-poc`](https://github.com/mandar1045/fossology-k8s-poc)  
   A Kubernetes-native FOSSology deployment proof of concept with scalable worker pods, dynamic scheduler host syncing, Helm packaging, and Argo CD-ready deployment structure.
 
-- [`ubice-poc`](https://github.com/mandar1045/ubice-poc)  
-  A binary intelligence and compliance proof of concept focused on fingerprinting compiled artifacts and generating SBOM-oriented outputs for the FOSSology ecosystem.
-
 - [`mandarjoshi-portfolio`](https://mandarjoshi-portfolio.vercel.app)  
   My portfolio site, where I showcase what I’m building and what I’m learning.
 
