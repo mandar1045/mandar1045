@@ -1,7 +1,7 @@
 # Hi, I'm Mandar Joshi
 
 <p align="center">
-  Open source contributor focused on backend reliability, cloud-native systems, and product infrastructure.
+  Developer building backend systems, cloud-native platforms, and useful open source contributions.
 </p>
 
 <p align="center">
@@ -17,48 +17,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Active-0f766e?style=for-the-badge" alt="Open source active badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infrastructure-2563eb?style=for-the-badge" alt="Backend and infrastructure badge" />
-  <img src="https://img.shields.io/badge/Now%20Contributing-FOSSology%20%7C%20Supabase%20%7C%20PostHog-f59e0b?style=for-the-badge" alt="Contribution targets badge" />
+  <img src="https://img.shields.io/badge/Backend-Reliability-0f766e?style=for-the-badge" alt="Backend reliability badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-Kubernetes%20%26%20GitOps-2563eb?style=for-the-badge" alt="Cloud native badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-f59e0b?style=for-the-badge" alt="Open source active badge" />
 </p>
 
 ## About Me
 
-I like contributing where product correctness, developer experience, and infrastructure meet.
-
-My recent work has centered on:
+I like working on things that are practical and visible in production: backend correctness, cloud-native systems, developer tooling, and product reliability.
 
 - fixing backend and API edge cases before they become production pain
 - improving frontend reliability and failure handling
 - contributing tests alongside fixes so behavior stays locked in
-- building Kubernetes and GitOps-friendly systems around real products
+- building Kubernetes and GitOps-friendly systems around real products and workflows
 
-I am especially interested in contribution paths that compound over time, which is why I am actively pushing work into FOSSology while building stronger contribution history in Supabase and PostHog.
-
-## Open Source Focus
-
-### Current Contribution Track
-
-| Project | Status | What I'm working on |
-| --- | --- | --- |
-| [FOSSology](https://github.com/fossology/fossology) | Active contributor | API correctness, import reliability, UI edge cases, deployment and infra-related improvements |
-| [Supabase](https://github.com/supabase/supabase) | Open PRs | Studio reliability, CSV import correctness, FK constraint error handling, self-hosted observability access |
-| [PostHog](https://github.com/PostHog/posthog) | Open PRs | Frontend resilience, stale chunk recovery, runtime copy polish, user-facing error handling |
-
-### Recent Contribution Snapshot
-
-- `FOSSology`: merged fixes across API behavior, null-safety, import flows, C/PHP bugs, and user-facing runtime messages.
-- `Supabase`: active PRs around Studio table editor correctness and self-hosted observability routing.
-- `PostHog`: active PRs around frontend lazy-load recovery and product UX polish.
-
-### Selected PR Trail
-
-- `Merged` [fossology/fossology#3605](https://github.com/fossology/fossology/pull/3605) - correct typos in user-facing messages
-- `Open` [fossology/fossology#3595](https://github.com/fossology/fossology/pull/3595) - preserve SPDX id on no-op candidate edits
-- `Open` [supabase/supabase#45503](https://github.com/supabase/supabase/pull/45503) - surface FK constraint errors and remove false-success CSV import timeout
-- `Open` [supabase/supabase#45490](https://github.com/supabase/supabase/pull/45490) - improve self-hosted observability access in Studio
-- `Open` [PostHog/posthog#57686](https://github.com/PostHog/posthog/pull/57686) - recover stale lazy chunks outside the scene loader
-- `Open` [PostHog/posthog#57409](https://github.com/PostHog/posthog/pull/57409) - clean up typos in runtime copy and prompts
+Alongside building my own products, I contribute upstream to projects I genuinely want to learn from and help improve.
 
 ## What I Build
 
@@ -74,6 +47,15 @@ I am especially interested in contribution paths that compound over time, which 
 
 - **[mandarjoshi-portfolio](https://mandarjoshi-portfolio.vercel.app)**  
   Personal site where I document what I build, what I contribute to, and what I am learning next.
+
+## Open Source
+
+I do not want this profile to be just a list of PR statuses, so here are stable references to the projects I contribute to and the kind of work I usually do there.
+
+- **[FOSSology](https://github.com/fossology/fossology)**: API correctness, import reliability, null-safety, backend fixes, and deployment-related improvements. [My PRs](https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045)
+- **[Supabase](https://github.com/supabase/supabase)**: Studio reliability, table editor behavior, CSV import correctness, and self-hosted product flows. [My PRs](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045)
+- **[PostHog](https://github.com/PostHog/posthog)**: frontend resilience, error handling, UX polish, and runtime copy improvements. [My PRs](https://github.com/PostHog/posthog/pulls?q=is%3Apr+author%3Amandar1045)
+- **[Cal.com / Cal.diy](https://github.com/calcom/cal.diy)**: scheduling and availability logic, setup copy, and product polish. [My PRs](https://github.com/calcom/cal.diy/pulls?q=is%3Apr+author%3Amandar1045)
 
 ## Stack I Use For Contributions
 
@@ -94,6 +76,7 @@ I am especially interested in contribution paths that compound over time, which 
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white)
+![Cal.com](https://img.shields.io/badge/Cal.com-111111?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Platform and Delivery
