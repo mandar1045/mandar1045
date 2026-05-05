@@ -40,6 +40,15 @@ Alongside building my own products, I contribute upstream to projects I genuinel
 - **Continum** ([continum.online](https://continum.online/))  
   AI-powered email automation and workflow platform with Gmail integration, memory, queues, and multi-service orchestration.
 
+- **[Vaulta](https://github.com/mandar1045/Vaulta)**  
+  Desktop browser and wallet-style application built with React, Tauri, Electron tooling, and `viem`, with chain-aware browsing, wallet panels, and desktop security-focused plumbing.
+
+- **[Answerly](https://github.com/mandar1045/Answerly)**  
+  Interview practice assistant focused on voice transcription, privacy-aware usage, and OpenAI-powered answer drafting during mock interview workflows.
+
+- **[Webhook Engine](https://github.com/mandar1045/Webhook-Engine---Supabase-)**  
+  Self-hostable webhook orchestration system built on Supabase and Postgres with durable queues, automatic retries, dead-letter handling, and observability tooling.
+
 ### Infra / OSS-Aligned Work
 
 - **[fossology-k8s-poc](https://github.com/mandar1045/fossology-k8s-poc)**  
