@@ -12,9 +12,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mandar1045-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandar1045)
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Active" />
-  <img src="https://img.shields.io/badge/CNCF%20%26%20Linux%20Foundation-Contributor-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CNCF Contributor" />
-  <img src="https://img.shields.io/badge/Go%20%7C%20Python%20%7C%20TypeScript-Backend%20Architect-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Backend Architect" />
+  <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Merged%20PRs-f59e0b?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" />
+  <img src="https://img.shields.io/badge/Linux%20Foundation%20%26%20CNCF-Active%20Contributor-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Linux Foundation & CNCF" />
+  <img src="https://img.shields.io/badge/Go%20%7C%20Python%20%7C%20TypeScript-Software%20Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Software Engineer" />
 </p>
 
 </div>
@@ -39,20 +39,20 @@
     <td width="50%" valign="top">
       <div align="left">
         <h3>🐧 Linux Foundation — FOSSology</h3>
-        <p><b>8 Merged Pull Requests</b></p>
-        <p>Contributed to core scanning pipelines, API correctness, import reliability, and null-safety fixes for license compliance analysis software.</p>
+        <p><b>8 Merged Pull Requests 🎉</b></p>
+        <p>Delivered 8 merged PRs addressing core scanning & analysis pipelines, API correctness, import reliability, and null-safety safeguards in open-source license compliance software.</p>
         <a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">
-          <img src="https://img.shields.io/badge/Merged%20PRs-8%20Contributions-009639?style=flat-square&logo=github" alt="FOSSology PRs" />
+          <img src="https://img.shields.io/badge/FOSSology-8%20Merged%20PRs-009639?style=flat-square&logo=github&logoColor=white" alt="FOSSology Merged PRs" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>⚙️ CNCF — Kubernetes</h3>
-        <p><b>Upstream Contributor</b></p>
-        <p>Contributed upstream to the container orchestration engine powering the modern cloud-native ecosystem.</p>
-        <a href="https://github.com/kubernetes/kubernetes">
-          <img src="https://img.shields.io/badge/CNCF-Kubernetes%20Contributor-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <h3>⚡ Supabase</h3>
+        <p><b>Merged Pull Requests 🎉</b></p>
+        <p>Merged PRs enhancing Supabase Studio, table editor behavior, CSV import correctness, developer tooling, and self-hosted documentation.</p>
+        <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">
+          <img src="https://img.shields.io/badge/Supabase-Merged%20PRs-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Merged PRs" />
         </a>
       </div>
     </td>
@@ -60,21 +60,21 @@
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>⚡ Supabase</h3>
-        <p><b>Developer Tooling & Studio Reliability</b></p>
-        <p>Merged PRs improving Supabase Studio, table editor behavior, CSV import correctness, and self-hosted product workflows.</p>
-        <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">
-          <img src="https://img.shields.io/badge/Supabase-Merged%20PRs-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <h3>📅 Cal.com</h3>
+        <p><b>Merged Pull Requests 🎉</b></p>
+        <p>Merged PRs optimizing scheduling availability logic, setup copy, feature improvements, and codebase enhancements for the Cal.com platform.</p>
+        <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">
+          <img src="https://img.shields.io/badge/Cal.com-Merged%20PRs-111111?style=flat-square&logo=cal.com&logoColor=white" alt="Cal.com Merged PRs" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>📅 Cal.com</h3>
-        <p><b>Scheduling Engine & UX Enhancements</b></p>
-        <p>Merged PRs addressing scheduling availability logic, setup copy, and codebase reliability for the open-source Cal.com platform.</p>
-        <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">
-          <img src="https://img.shields.io/badge/Cal.com-Merged%20PRs-111111?style=flat-square&logo=cal.com&logoColor=white" alt="Cal.com" />
+        <h3>⚙️ CNCF — Kubernetes</h3>
+        <p><b>Upstream Merged & Active Contributor 🎉</b></p>
+        <p>Contributed upstream PRs & improvements to Kubernetes container orchestration core, maintained by the Cloud Native Computing Foundation.</p>
+        <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amandar1045">
+          <img src="https://img.shields.io/badge/Kubernetes-Merged%20%26%20Active%20PRs-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes PRs" />
         </a>
       </div>
     </td>
@@ -83,10 +83,10 @@
     <td colspan="2" valign="top">
       <div align="left">
         <h3>📊 PostHog</h3>
-        <p><b>Analytics Pipeline Resilience & DX</b></p>
-        <p>Contributed frontend resilience, error handling improvements, and DX enhancements for PostHog product analytics.</p>
+        <p><b>Merged & Active Pull Requests 🎉</b></p>
+        <p>Contributed PRs addressing analytics pipeline resilience, frontend error handling, DX improvements, and runtime copy fixes.</p>
         <a href="https://github.com/PostHog/posthog/pulls?q=is%3Apr+author%3Amandar1045">
-          <img src="https://img.shields.io/badge/PostHog-Contributor-F54E00?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
+          <img src="https://img.shields.io/badge/PostHog-Merged%20%26%20Active%20PRs-F54E00?style=flat-square&logo=posthog&logoColor=white" alt="PostHog PRs" />
         </a>
       </div>
     </td>
