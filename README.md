@@ -26,10 +26,6 @@
 > I am a passionate **Software Engineer** and **Active Open Source Contributor** pursuing a **B.Tech in Information Technology** at **Vellore Institute of Technology (VIT Vellore)**. My core engineering focus lies in high-concurrency microservices, event-driven architectures, payment dunning pipelines, and contributing back to cloud-native open-source ecosystems.
 
 * 🎓 **Education:** B.Tech in IT @ **VIT Vellore** (2024 – 2028)
-* 💼 **Current Role:** Full Stack Developer @ **Xnotch iTech (Renew Care Plus)** — Building security-hardened B2B healthcare analytics, RBAC, and audit-ready data models.
-* 🛠️ **Previous Work:** SDE Intern @ **Tense AI** (built NLP automation handling 500+ daily enterprise events, optimized microservice latency by 40%).
-* 📍 **Location:** Vellore, India *(Open to global relocation)*
-
 ---
 
 ## 🌐 Open Source Contributions & Impact
@@ -182,13 +178,7 @@
         <li><b>Stampede Risk Prediction:</b> Analyzes density gradients and flow velocity with &lt;1.5s alert dispatching.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/mandar1045/Vaulta">Vaulta: Web3 Browser & Wallet</a></h3>
-      <p><b>Repo: <a href="https://github.com/mandar1045/Vaulta">mandar1045/Vaulta</a></b></p>
-      <ul>
-        <li><b>Desktop Browser Shell:</b> Desktop browser & wallet application built with React, Tauri, Electron, and <code>viem</code>.</li>
-      </ul>
-    </td>
+    
   </tr>
 </table>
 
