@@ -56,7 +56,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>📅 Cal.com</h3>
+        <h3>📅 Cal.diy/com</h3>
         <p><b>Merged Pull Requests 🎉</b></p>
         <p>Merged PRs optimizing scheduling availability logic, setup copy, feature improvements, and codebase enhancements for the Cal.com platform.</p>
         <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">
@@ -67,7 +67,7 @@
     <td width="50%" valign="top">
       <div align="left">
         <h3>⚙️ CNCF — Kubernetes</h3>
-        <p><b>Upstream Merged & Active Contributor 🎉</b></p>
+        <p><b>Active Contributor 🎉</b></p>
         <p>Contributed upstream PRs & improvements to Kubernetes container orchestration core, maintained by the Cloud Native Computing Foundation.</p>
         <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amandar1045">
           <img src="https://img.shields.io/badge/Kubernetes-Merged%20%26%20Active%20PRs-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes PRs" />
