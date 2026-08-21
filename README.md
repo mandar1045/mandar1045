@@ -108,16 +108,16 @@ I do not want this profile to be just a list of PR statuses, so here are stable 
 ## Contribution Signals
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mandar1045&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Mandar's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mandar1045&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&v=fresh" alt="Mandar's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandar1045&layout=compact&hide_border=true&theme=transparent&v=fresh" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mandar1045&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mandar1045&hide_border=true&theme=transparent&v=fresh" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandar1045&bg_color=ffffff&color=0f766e&line=2563eb&point=f59e0b&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandar1045&bg_color=ffffff&color=0f766e&line=2563eb&point=f59e0b&area=true&hide_border=true&v=fresh" alt="Contribution graph" />
 </p>
 
 ## Connect
