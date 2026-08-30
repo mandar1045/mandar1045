@@ -50,4 +50,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh terminal SVGs [skip ci]"
-          file_pattern: "data/contributions.json heatmap-mandar1045.svg stats-mandar1045.svg opensource-mandar1045.svg projects-mandar1045.svg skills-mandar1045.svg"
+          file_pattern: "data/contributions.json heatmap-mandar1045.svg stats-mandar1045.svg opensource-mandar1045.svg project-resync.svg project-continum.svg project-crowd.svg skills-mandar1045.svg"
