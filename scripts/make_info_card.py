@@ -4,7 +4,7 @@ Generate a neofetch-style info card SVG.
 """
 import os
 
-OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "info-card.svg")
+OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "info-mandar1045.svg")
 
 def generate():
     svg = """<svg xmlns="http://www.w3.org/2000/svg" width="490" height="387" viewBox="0 0 490 387" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
