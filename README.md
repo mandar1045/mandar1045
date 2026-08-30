@@ -1,4 +1,10 @@
 <div align="center">
+<div align="center">
+
+<h3><code>mandar1045@github ~ $ ./contributions.sh</code></h3>
+<img src="./heatmap-mandar1045.svg" width="860" />
+
+<br><br>
 
 # 🚀 Mandar Joshi
 ### **Active Open Source Contributor & Software Engineer**
@@ -21,12 +27,6 @@
 
 ---
 
-<div align="center">
-
-<h3><code>mandar1045@github ~ $ ./contributions.sh</code></h3>
-<img src="./heatmap-mandar1045.svg" width="860" />
-
-<br><br>
 
 <h3><code>mandar1045@github ~ $ whoami</code></h3>
 <table>
@@ -42,6 +42,12 @@
 
 <div align="center">
 
+<h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
+<img src="./opensource-mandar1045.svg" width="860" />
+<br>
+<i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a> • <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">Cal.com</a> • <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amandar1045">Kubernetes</a> • <a href="https://github.com/PostHog/posthog/pulls?q=is%3Apr+author%3Amandar1045">PostHog</a></i>
+
+<br><br>
 <h3><code>mandar1045@github ~ $ ./stats.sh</code></h3>
 <img src="./stats-mandar1045.svg" width="860" />
 
@@ -52,12 +58,6 @@
 
 <br><br>
 
-<h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
-<img src="./opensource-mandar1045.svg" width="860" />
-<br>
-<i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a> • <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">Cal.com</a> • <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amandar1045">Kubernetes</a> • <a href="https://github.com/PostHog/posthog/pulls?q=is%3Apr+author%3Amandar1045">PostHog</a></i>
-
-<br><br>
 
 <h3><code>mandar1045@github ~/projects $ ls -la</code></h3>
 <img src="./projects-mandar1045.svg" width="860" />
