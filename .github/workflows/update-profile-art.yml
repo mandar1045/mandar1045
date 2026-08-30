@@ -36,6 +36,8 @@ jobs:
         run: python scripts/make_stats_svg.py
 
       - name: Render opensource SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/make_opensource_svg.py
 
       - name: Render projects SVG

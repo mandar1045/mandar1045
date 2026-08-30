@@ -2,7 +2,7 @@
 <div align="center">
 
 <h3><code>mandar1045@github ~ $ ./contributions.sh</code></h3>
-<img src="./heatmap-mandar1045.svg" width="860" />
+<img src="./heatmap-mandar1045.svg?v=3" width="860" />
 
 <br><br>
 
@@ -31,8 +31,8 @@
 <h3><code>mandar1045@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./face-mandar1045.svg" width="370" /></td>
-    <td valign="top"><img src="./info-mandar1045.svg" width="490" /></td>
+    <td valign="top"><img src="./face-mandar1045.svg?v=3" width="370" /></td>
+    <td valign="top"><img src="./info-mandar1045.svg?v=3" width="490" /></td>
   </tr>
 </table>
 
@@ -43,24 +43,24 @@
 <div align="center">
 
 <h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
-<img src="./opensource-mandar1045.svg" width="860" />
+<img src="./opensource-mandar1045.svg?v=3" width="860" />
 <br>
 <i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a> • <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">Cal.com</a> • <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amandar1045">Kubernetes</a> • <a href="https://github.com/PostHog/posthog/pulls?q=is%3Apr+author%3Amandar1045">PostHog</a></i>
 
 <br><br>
 <h3><code>mandar1045@github ~ $ ./stats.sh</code></h3>
-<img src="./stats-mandar1045.svg" width="860" />
+<img src="./stats-mandar1045.svg?v=3" width="860" />
 
 <br><br>
 
 <h3><code>mandar1045@github ~ $ ./skills.sh</code></h3>
-<img src="./skills-mandar1045.svg" width="860" />
+<img src="./skills-mandar1045.svg?v=3" width="860" />
 
 <br><br>
 
 
 <h3><code>mandar1045@github ~/projects $ ls -la</code></h3>
-<img src="./projects-mandar1045.svg" width="860" />
+<img src="./projects-mandar1045.svg?v=3" width="860" />
 <br>
 <i><a href="https://resync.biz">Resync (Live)</a> • <a href="https://github.com/mandar1045/Resync">Resync (GitHub)</a> • <a href="https://continum.online">Continum (Live)</a> • <a href="https://github.com/mandar1045/Continum">Continum (GitHub)</a> • <a href="https://github.com/mandar1045/Crowd-Management-System-software">Crowd Management</a></i>
 
