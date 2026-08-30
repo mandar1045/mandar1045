@@ -8,57 +8,119 @@ def generate():
     body = """
     <style>
       .txt { fill: #c9d1d9; font-size: 14px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-      .cat { fill: #22d3ee; font-weight: bold; }
-      .bar-bg { fill: #30363d; rx: 4px; }
-      .bar-fg-go { fill: #00add8; rx: 4px; }
-      .bar-fg-py { fill: #3776ab; rx: 4px; }
-      .bar-fg-ts { fill: #3178c6; rx: 4px; }
-      
+      .cat { fill: #22d3ee; font-weight: bold; font-size: 15px; }
       .cursor {
         fill: #c9d1d9;
         animation: blink 1s step-end infinite;
       }
       @keyframes blink { 50% { opacity: 0; } }
-      
-      .fade-in {
-        opacity: 0;
-        animation: fadeIn 0.3s forwards;
-      }
+      .fade-in { opacity: 0; animation: fadeIn 0.5s forwards; }
       @keyframes fadeIn { to { opacity: 1; } }
+      .bar-bg { fill: #21262d; rx: 5px; }
+      .bar-fg { rx: 5px; }
     </style>
     
     <text class="txt" y="0"><tspan fill="#39d353">mandar1045@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ ./skills.sh</text>
     
-    <g transform="translate(0, 30)" class="fade-in" style="animation-delay: 0.5s">
-      <text class="txt cat" y="0">Languages</text>
-      <text class="txt" y="25" x="20">Go         [||||||||||||||||||] 90%</text>
-      <text class="txt" y="45" x="20">Python     [||||||||||||||||| ] 85%</text>
-      <text class="txt" y="65" x="20">TypeScript [||||||||||||||||  ] 80%</text>
-      <text class="txt" y="85" x="20">Java/C     [||||||||||||||    ] 70%</text>
+    <!-- Languages Column -->
+    <g transform="translate(0, 40)" class="fade-in" style="animation-delay: 0.2s">
+      <text class="cat" y="0">Languages</text>
+      
+      <text class="txt" y="35">Go</text>
+      <rect class="bar-bg" x="110" y="24" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="24" width="0" height="12" fill="#00add8">
+        <animate attributeName="width" from="0" to="225" dur="1s" fill="freeze" />
+      </rect>
+      
+      <text class="txt" y="65">Python</text>
+      <rect class="bar-bg" x="110" y="54" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="54" width="0" height="12" fill="#3776ab">
+        <animate attributeName="width" from="0" to="210" dur="1s" fill="freeze" />
+      </rect>
+
+      <text class="txt" y="95">TypeScript</text>
+      <rect class="bar-bg" x="110" y="84" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="84" width="0" height="12" fill="#3178c6">
+        <animate attributeName="width" from="0" to="200" dur="1s" fill="freeze" />
+      </rect>
+
+      <text class="txt" y="125">Java / C</text>
+      <rect class="bar-bg" x="110" y="114" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="114" width="0" height="12" fill="#ed8b00">
+        <animate attributeName="width" from="0" to="175" dur="1s" fill="freeze" />
+      </rect>
     </g>
 
-    <g transform="translate(350, 30)" class="fade-in" style="animation-delay: 1.0s">
-      <text class="txt cat" y="0">Backend &amp; Microservices</text>
-      <text class="txt" y="25" x="20">• gRPC / Protobuf</text>
-      <text class="txt" y="45" x="20">• FastAPI / Node.js</text>
-      <text class="txt" y="65" x="20">• Redis / Distributed Locks</text>
+    <!-- Backend Column -->
+    <g transform="translate(420, 40)" class="fade-in" style="animation-delay: 0.4s">
+      <text class="cat" y="0">Backend &amp; Microservices</text>
+      
+      <text class="txt" y="35">gRPC / PB</text>
+      <rect class="bar-bg" x="120" y="24" width="250" height="12"/>
+      <rect class="bar-fg" x="120" y="24" width="0" height="12" fill="#244c5a">
+        <animate attributeName="width" from="0" to="220" dur="1s" fill="freeze" />
+      </rect>
+
+      <text class="txt" y="65">FastAPI</text>
+      <rect class="bar-bg" x="120" y="54" width="250" height="12"/>
+      <rect class="bar-fg" x="120" y="54" width="0" height="12" fill="#009688">
+        <animate attributeName="width" from="0" to="210" dur="1s" fill="freeze" />
+      </rect>
+      
+      <text class="txt" y="95">Node.js</text>
+      <rect class="bar-bg" x="120" y="84" width="250" height="12"/>
+      <rect class="bar-fg" x="120" y="84" width="0" height="12" fill="#339933">
+        <animate attributeName="width" from="0" to="200" dur="1s" fill="freeze" />
+      </rect>
     </g>
 
-    <g transform="translate(0, 150)" class="fade-in" style="animation-delay: 1.5s">
-      <text class="txt cat" y="0">Streaming &amp; Databases</text>
-      <text class="txt" y="25" x="20">• Apache Kafka (Redpanda)</text>
-      <text class="txt" y="45" x="20">• PostgreSQL / MongoDB</text>
-      <text class="txt" y="65" x="20">• Supabase</text>
+    <!-- Streaming Column -->
+    <g transform="translate(0, 200)" class="fade-in" style="animation-delay: 0.6s">
+      <text class="cat" y="0">Streaming &amp; Databases</text>
+      
+      <text class="txt" y="35">Kafka / Redis</text>
+      <rect class="bar-bg" x="110" y="24" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="24" width="0" height="12" fill="#dc382d">
+        <animate attributeName="width" from="0" to="230" dur="1s" fill="freeze" />
+      </rect>
+
+      <text class="txt" y="65">PostgreSQL</text>
+      <rect class="bar-bg" x="110" y="54" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="54" width="0" height="12" fill="#4169e1">
+        <animate attributeName="width" from="0" to="215" dur="1s" fill="freeze" />
+      </rect>
+      
+      <text class="txt" y="95">Supabase</text>
+      <rect class="bar-bg" x="110" y="84" width="250" height="12"/>
+      <rect class="bar-fg" x="110" y="84" width="0" height="12" fill="#3ecf8e">
+        <animate attributeName="width" from="0" to="200" dur="1s" fill="freeze" />
+      </rect>
     </g>
 
-    <g transform="translate(350, 150)" class="fade-in" style="animation-delay: 2.0s">
-      <text class="txt cat" y="0">Cloud Native &amp; DevOps</text>
-      <text class="txt" y="25" x="20">• Docker / Kubernetes</text>
-      <text class="txt" y="45" x="20">• Terraform / AWS</text>
-      <text class="txt" y="65" x="20">• Prometheus / Grafana</text>
+    <!-- Cloud Column -->
+    <g transform="translate(420, 200)" class="fade-in" style="animation-delay: 0.8s">
+      <text class="cat" y="0">Cloud Native &amp; DevOps</text>
+      
+      <text class="txt" y="35">Docker</text>
+      <rect class="bar-bg" x="120" y="24" width="250" height="12"/>
+      <rect class="bar-fg" x="120" y="24" width="0" height="12" fill="#2496ed">
+        <animate attributeName="width" from="0" to="225" dur="1s" fill="freeze" />
+      </rect>
+
+      <text class="txt" y="65">Kubernetes</text>
+      <rect class="bar-bg" x="120" y="54" width="250" height="12"/>
+      <rect class="bar-fg" x="120" y="54" width="0" height="12" fill="#326ce5">
+        <animate attributeName="width" from="0" to="200" dur="1s" fill="freeze" />
+      </rect>
+      
+      <text class="txt" y="95">AWS / TF</text>
+      <rect class="bar-bg" x="120" y="84" width="250" height="12"/>
+      <rect class="bar-fg" x="120" y="84" width="0" height="12" fill="#f46800">
+        <animate attributeName="width" from="0" to="190" dur="1s" fill="freeze" />
+      </rect>
     </g>
 
-    <g transform="translate(0, 250)" class="fade-in" style="animation-delay: 2.5s">
+    <g transform="translate(0, 340)" class="fade-in" style="animation-delay: 1.0s">
       <text class="txt" y="0"><tspan fill="#39d353">mandar1045@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ <tspan class="cursor">█</tspan></text>
     </g>
     """
@@ -67,7 +129,7 @@ def generate():
         title_text="mandar1045@github: ~/skills",
         body_content=body,
         width=860,
-        height=380
+        height=450
     )
     
     with open(OUT_PATH, "w") as f:
