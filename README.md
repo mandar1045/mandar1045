@@ -21,6 +21,25 @@
 
 ---
 
+<div align="center">
+
+<h3><code>mandar1045@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>mandar1045@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./mandar1045-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🌟 About Me
 
 > I am a passionate **Software Engineer** and **Active Open Source Contributor** pursuing a **B.Tech in Information Technology** at **Vellore Institute of Technology (VIT Vellore)**. My core engineering focus lies in high-concurrency microservices, event-driven architectures, payment dunning pipelines, and contributing back to cloud-native open-source ecosystems.
