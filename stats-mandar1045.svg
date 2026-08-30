@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="330" rx="12" fill="url(#wbg)"/>
+  <rect x="0.5" y="0.5" width="859" height="329" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="28" x2="860" y2="28" stroke="#30363d"/>
+
+  <circle cx="18" cy="14" r="4.5" fill="#ff5f56"/>
+  <circle cx="33" cy="14" r="4.5" fill="#ffbd2e"/>
+  <circle cx="48" cy="14" r="4.5" fill="#27c93f"/>
+  <text x="430" y="18" fill="#7d8590" font-size="11.5" text-anchor="middle">mandar1045@github: ~/stats</text>
+  
+  <g fill="#c9d1d9" font-size="13" transform="translate(30, 60)">
+    
+    <style>
+      .txt { fill: #c9d1d9; font-size: 14px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .hl { fill: #22d3ee; font-weight: bold; }
+      .val { fill: #39d353; font-weight: bold; }
+      .cursor {
+        fill: #c9d1d9;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink { 50% { opacity: 0; } }
+      .fade-in { opacity: 0; animation: fadeIn 0.3s forwards; }
+      @keyframes fadeIn { to { opacity: 1; } }
+      
+      .type-line {
+        overflow: hidden;
+        white-space: nowrap;
+        animation: typing 0.5s steps(40, end) forwards;
+        width: 0;
+      }
+      @keyframes typing { from { width: 0 } to { width: 100% } }
+    </style>
+    
+    <text class="txt" y="0"><tspan fill="#39d353">mandar1045@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ ./stats.sh</text>
+    
+    <g transform="translate(0, 30)" class="fade-in" style="animation-delay: 0.5s">
+      <text class="txt" y="0">Analyzing local contribution metrics...</text>
+    </g>
+
+    <g transform="translate(0, 70)" class="fade-in" style="animation-delay: 1.0s">
+      <text class="txt hl" y="0">🏆  Contribution Stats (Last Year)</text>
+      <text class="txt" y="25">  • Total Contributions : <tspan class="val">1116</tspan></text>
+      <text class="txt" y="50">  • Current Streak      : <tspan class="val">8 days</tspan></text>
+      <text class="txt" y="75">  • Longest Streak      : <tspan class="val">24 days</tspan></text>
+      <text class="txt" y="100">  • Most in a day       : <tspan class="val">58</tspan></text>
+    </g>
+
+    <g transform="translate(430, 70)" class="fade-in" style="animation-delay: 1.5s">
+      <text class="txt hl" y="0">🔥  Top Languages (Estimated)</text>
+      <text class="txt" y="25">  • Go          [████████  ] 45%</text>
+      <text class="txt" y="50">  • Python      [██████    ] 30%</text>
+      <text class="txt" y="75">  • TypeScript  [████      ] 20%</text>
+      <text class="txt" y="100">  • Other       [█         ] 5%</text>
+    </g>
+
+    <g transform="translate(0, 220)" class="fade-in" style="animation-delay: 2.0s">
+      <text class="txt" y="0"><tspan fill="#39d353">mandar1045@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ <tspan class="cursor">█</tspan></text>
+    </g>
+    
+  </g>
+</svg>
