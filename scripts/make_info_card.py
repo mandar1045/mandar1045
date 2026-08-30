@@ -40,8 +40,27 @@ def generate():
     <text y="290"><tspan fill="#f2cc60" font-weight="bold">Projects</tspan></text>
     <text y="310">  • Resync: UPI Autopay Recovery Platform</text>
     <text y="330">  • Continum: AI/ML Automation Platform</text>
+    <text y="350">  • Crowd Management System</text>
+    
+    <g transform="translate(0, 380)">
+      <rect x="0" y="0" width="14" height="14" fill="#000000" />
+      <rect x="14" y="0" width="14" height="14" fill="#ff5555" />
+      <rect x="28" y="0" width="14" height="14" fill="#50fa7b" />
+      <rect x="42" y="0" width="14" height="14" fill="#f1fa8c" />
+      <rect x="56" y="0" width="14" height="14" fill="#bd93f9" />
+      <rect x="70" y="0" width="14" height="14" fill="#ff79c6" />
+      <rect x="84" y="0" width="14" height="14" fill="#8be9fd" />
+      <rect x="98" y="0" width="14" height="14" fill="#bbbbbb" />
+    </g>
+    
+    <text y="420" font-size="14px"><tspan fill="#39d353">mandar1045@github</tspan>:<tspan fill="#79c0ff">~</tspan>$ <tspan fill="#c9d1d9" style="animation: blink 1s step-end infinite;">█</tspan></text>
+    
+    <style>
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
   </g>
 </svg>"""
+    svg = svg.replace('height="387"', 'height="450"').replace('viewBox="0 0 490 387"', 'viewBox="0 0 490 450"').replace('height="386"', 'height="449"')
     with open(OUT_PATH, "w") as f:
         f.write(svg)
     print(f"wrote {OUT_PATH}")

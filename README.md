@@ -1,4 +1,6 @@
+
 <div align="center">
+  Mandar Joshi
 <div align="center">
 
 <h3><code>mandar1045@github ~ $ ./contributions.sh</code></h3>
@@ -6,24 +8,11 @@
 
 <br><br>
 
-# 🚀 Mandar Joshi
-### **Active Open Source Contributor & Software Engineer**
-*Specializing in Distributed Systems, Payment Infrastructure & Cloud-Native Platforms*
+
+
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mandarjoshi--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mandarjoshi-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandar%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandar-joshi-0b951b28a/)
-[![Email](https://img.shields.io/badge/Email-mandarjoshi1045%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandarjoshi1045@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mandar1045-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandar1045)
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Merged%20PRs-f59e0b?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" />
-  <img src="https://img.shields.io/badge/Linux%20Foundation%20%26%20CNCF-Active%20Contributor-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Linux Foundation & CNCF" />
-  <img src="https://img.shields.io/badge/Go%20%7C%20Python%20%7C%20TypeScript-Software%20Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Software Engineer" />
-</p>
-
-</div>
 
 ---
 
@@ -32,7 +21,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./face-mandar1045.svg?v=3" width="370" /></td>
-    <td valign="top"><img src="./info-mandar1045.svg?v=3" width="490" /></td>
+    <td valign="top"><img src="./info-mandar1045.svg?v=4" width="490" /></td>
   </tr>
 </table>
 
@@ -57,6 +46,19 @@
 <img src="./skills-mandar1045.svg?v=3" width="860" />
 
 <br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mandarjoshi--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mandarjoshi-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandar%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandar-joshi-0b951b28a/)
+[![Email](https://img.shields.io/badge/Email-mandarjoshi1045%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandarjoshi1045@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mandar1045-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandar1045)
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Merged%20PRs-f59e0b?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" />
+  <img src="https://img.shields.io/badge/Linux%20Foundation%20%26%20CNCF-Active%20Contributor-2563eb?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Linux Foundation & CNCF" />
+  <img src="https://img.shields.io/badge/Go%20%7C%20Python%20%7C%20TypeScript-Software%20Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Software Engineer" />
+</p>
+
+</div>
+
 
 
 <h3><code>mandar1045@github ~/projects $ ls -la</code></h3>
