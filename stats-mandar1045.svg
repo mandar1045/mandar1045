@@ -45,8 +45,8 @@
 
     <g transform="translate(0, 70)" class="fade-in" style="animation-delay: 1.0s">
       <text class="txt hl" y="0">🏆  Contribution Stats (Last Year)</text>
-      <text class="txt" y="25">  • Total Contributions : <tspan class="val">1246</tspan></text>
-      <text class="txt" y="50">  • Current Streak      : <tspan class="val">13 days</tspan></text>
+      <text class="txt" y="25">  • Total Contributions : <tspan class="val">1263</tspan></text>
+      <text class="txt" y="50">  • Current Streak      : <tspan class="val">14 days</tspan></text>
       <text class="txt" y="75">  • Longest Streak      : <tspan class="val">24 days</tspan></text>
       <text class="txt" y="100">  • Most in a day       : <tspan class="val">106</tspan></text>
     </g>
