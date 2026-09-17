@@ -32,9 +32,9 @@
 <div align="center">
 
 <h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
-<a href="https://github.com/mandar1045/mandar1045/pulls"><img src="./opensource-mandar1045.svg?v=4" width="860" /></a>
+<a href="https://github.com/mandar1045/mandar1045/pulls"><img src="./opensource-mandar1045.svg?v=5" width="860" /></a>
 <br>
-<i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a> • <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3Amandar1045">Cal.com</a> • <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amandar1045">Kubernetes</a> • <a href="https://github.com/PostHog/posthog/pulls?q=is%3Apr+author%3Amandar1045">PostHog</a></i>
+<i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a></i>
 
 <br><br>
 <h3><code>mandar1045@github ~ $ ./stats.sh</code></h3>

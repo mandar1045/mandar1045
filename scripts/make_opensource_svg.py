@@ -23,7 +23,7 @@ def fetch_orgs():
             if not repo_url: continue
             
             org = repo_url.split('/')[-2]
-            if org.lower() in ('mandar1045', 'sahilmurhekar'):
+            if org.lower() not in ('fossology', 'supabase'):
                 continue
                 
             if item.get('pull_request', {}).get('merged_at'):
