@@ -36,9 +36,7 @@ def fetch_orgs():
         print(f"Error fetching data: {e}")
         return [
             ("fossology", {"merged": 8, "open": 1, "closed": 14}),
-            ("supabase", {"merged": 1, "open": 3, "closed": 4}),
-            ("kubernetes", {"merged": 0, "open": 0, "closed": 2}),
-            ("PostHog", {"merged": 0, "open": 0, "closed": 3})
+            ("supabase", {"merged": 1, "open": 3, "closed": 4})
         ]
         
     sorted_orgs = sorted(orgs.items(), key=lambda x: -(x[1]['merged'] + (x[1]['open'] * 0.5)))
