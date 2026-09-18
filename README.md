@@ -9,26 +9,6 @@
 <br><br>
 
 
-
-
----
-
-
----
-
-
-<h3><code>mandar1045@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><a href="https://mandarjoshi-portfolio.vercel.app"><img src="./face-mandar1045.svg?v=4" width="370" /></a></td>
-    <td valign="top"><a href="https://mandarjoshi-portfolio.vercel.app"><img src="./info-mandar1045.svg?v=4" width="490" /></a></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 <h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
