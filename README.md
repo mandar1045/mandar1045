@@ -22,9 +22,6 @@
 
 <br><br>
 
-<h3><code>mandar1045@github ~ $ ./skills.sh</code></h3>
-<a href="https://github.com/mandar1045"><img src="./skills-mandar1045.svg?v=4" width="860" /></a>
-
 <br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-mandarjoshi--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mandarjoshi-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandar%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandar-joshi-0b951b28a/)
@@ -38,17 +35,6 @@
 </p>
 
 </div>
-
-
-<p align="center">
-  <a href="https://resync.biz"><img src="./project-resync.svg?v=4" width="420" /></a>
-  <a href="https://continum.online"><img src="./project-continum.svg?v=4" width="420" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mandar1045/Crowd-Management-System-software"><img src="./project-crowd.svg?v=4" width="420" /></a>
-</p>
-<br>
-<i><a href="https://resync.biz">Resync (Live)</a> • <a href="https://github.com/mandar1045/Resync">Resync (GitHub)</a> • <a href="https://continum.online">Continum (Live)</a> • <a href="https://github.com/mandar1045/Continum">Continum (GitHub)</a> • <a href="https://github.com/mandar1045/Crowd-Management-System-software">Crowd Management</a></i>
 
 <br><br>
 
