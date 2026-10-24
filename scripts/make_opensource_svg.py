@@ -15,10 +15,17 @@ def fetch_orgs():
     
     orgs = defaultdict(lambda: {'merged': 0, 'open': 0, 'closed': 0})
     try:
-        resp = requests.get(url, headers=headers, timeout=10)
-        data = resp.json()
-        
-        for item in data.get('items', []):
+        items = []
+        # Search API returns max 100 per page, so walk up to 5 pages (500 PRs)
+        for page in range(1, 6):
+            resp = requests.get(f'{url}&page={page}', headers=headers, timeout=10)
+            resp.raise_for_status()
+            page_items = resp.json().get('items', [])
+            items.extend(page_items)
+            if len(page_items) < 100:
+                break
+
+        for item in items:
             repo_url = item.get('repository_url', '')
             if not repo_url: continue
             
@@ -35,8 +42,8 @@ def fetch_orgs():
     except Exception as e:
         print(f"Error fetching data: {e}")
         return [
-            ("fossology", {"merged": 8, "open": 1, "closed": 14}),
-            ("supabase", {"merged": 1, "open": 3, "closed": 4})
+            ("supabase", {"merged": 14, "open": 13, "closed": 21}),
+            ("fossology", {"merged": 11, "open": 3, "closed": 16})
         ]
         
     sorted_orgs = sorted(orgs.items(), key=lambda x: -(x[1]['merged'] + (x[1]['open'] * 0.5)))
