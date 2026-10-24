@@ -12,13 +12,13 @@
 <div align="center">
 
 <h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
-<a href="https://github.com/mandar1045/mandar1045/pulls"><img src="https://raw.githubusercontent.com/mandar1045/mandar1045/main/opensource-mandar1045.svg?v=7" width="860" /></a>
+<a href="https://github.com/mandar1045/mandar1045/pulls"><img src="https://raw.githubusercontent.com/mandar1045/mandar1045/main/opensource-mandar1045.svg?v=8" width="860" /></a>
 <br>
-<i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a></i>
+<i><a href="https://github.com/fossology/fossology/pulls?q=is%3Apr+author%3Amandar1045">Linux Foundation</a> • <a href="https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Amandar1045">Supabase</a> • <a href="https://github.com/elixir-lang/elixir/pulls?q=is%3Apr+author%3Amandar1045">Elixir</a></i>
 
 <br><br>
 <h3><code>mandar1045@github ~ $ ./stats.sh</code></h3>
-<a href="https://github.com/mandar1045"><img src="./stats-mandar1045.svg?v=4" width="860" /></a>
+<a href="https://github.com/mandar1045"><img src="./stats-mandar1045.svg?v=5" width="860" /></a>
 
 <br><br>
 

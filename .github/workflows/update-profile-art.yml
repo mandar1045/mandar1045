@@ -33,6 +33,8 @@ jobs:
         run: python scripts/render_heatmap_svg.py
 
       - name: Render stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/make_stats_svg.py
 
       - name: Render opensource SVG

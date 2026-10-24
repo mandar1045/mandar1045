@@ -30,7 +30,7 @@ def fetch_orgs():
             if not repo_url: continue
             
             org = repo_url.split('/')[-2]
-            if org.lower() not in ('fossology', 'supabase'):
+            if org.lower() not in ('fossology', 'supabase', 'elixir-lang'):
                 continue
                 
             if item.get('pull_request', {}).get('merged_at'):
@@ -43,7 +43,8 @@ def fetch_orgs():
         print(f"Error fetching data: {e}")
         return [
             ("supabase", {"merged": 14, "open": 13, "closed": 21}),
-            ("fossology", {"merged": 11, "open": 3, "closed": 16})
+            ("fossology", {"merged": 11, "open": 3, "closed": 16}),
+            ("elixir-lang", {"merged": 5, "open": 1, "closed": 1})
         ]
         
     sorted_orgs = sorted(orgs.items(), key=lambda x: -(x[1]['merged'] + (x[1]['open'] * 0.5)))
@@ -129,7 +130,7 @@ def generate():
         title_text="mandar1045@github: ~/opensource",
         body_content=body,
         width=860,
-        height=final_y + 40
+        height=final_y + 90  # body is offset 60px down by render_terminal_svg
     )
     
     with open(OUT_PATH, "w") as f:
