@@ -1,15 +1,12 @@
 
 <div align="center">
-  Mandar Joshi
-<div align="center">
+
+<h1>Mandar Joshi</h1>
 
 <h3><code>mandar1045@github ~ $ ./contributions.sh</code></h3>
 <a href="https://github.com/mandar1045"><img src="./heatmap-mandar1045.svg?v=4" width="860" /></a>
 
 <br><br>
-
-
-<div align="center">
 
 <h3><code>mandar1045@github ~ $ ./opensource.sh</code></h3>
 <a href="https://github.com/mandar1045/mandar1045/pulls"><img src="https://raw.githubusercontent.com/mandar1045/mandar1045/main/opensource-mandar1045.svg?v=8" width="860" /></a>
@@ -22,12 +19,9 @@
 
 <br><br>
 
-<br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-mandarjoshi.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mandarjoshi.me)
 [![Email](https://img.shields.io/badge/Email-mandarjoshi1045%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandarjoshi1045@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mandar1045-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandar1045)
-
-</div>
 
 <br><br>
 
