@@ -22,6 +22,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mandarjoshi.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mandarjoshi.me)
 [![Email](https://img.shields.io/badge/Email-mandarjoshi1045%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandarjoshi1045@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mandar1045-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandar1045)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandar%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandar-joshi-0b951b28a/)
+[![X](https://img.shields.io/badge/X-%40Mandarjoshi1045-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mandarjoshi1045)
 
 <br><br>
 
