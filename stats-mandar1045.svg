@@ -46,17 +46,17 @@
 
     <g transform="translate(0, 70)" class="fade-in" style="animation-delay: 1.0s">
       <text class="txt hl" y="0">🏆  Contribution Stats (Last Year)</text>
-      <text class="txt" y="25" xml:space="preserve">  • Total Contributions : <tspan class="val">1579</tspan></text>
-      <text class="txt" y="50" xml:space="preserve">  • Current Streak      : <tspan class="val">56 days</tspan></text>
-      <text class="txt" y="75" xml:space="preserve">  • Longest Streak      : <tspan class="val">56 days</tspan></text>
+      <text class="txt" y="25" xml:space="preserve">  • Total Contributions : <tspan class="val">1589</tspan></text>
+      <text class="txt" y="50" xml:space="preserve">  • Current Streak      : <tspan class="val">58 days</tspan></text>
+      <text class="txt" y="75" xml:space="preserve">  • Longest Streak      : <tspan class="val">58 days</tspan></text>
       <text class="txt" y="100" xml:space="preserve">  • Most in a day       : <tspan class="val">58</tspan></text>
     </g>
 
     <g transform="translate(430, 70)" class="fade-in" style="animation-delay: 1.5s">
       <text class="txt hl" y="0">🔥  Top Languages</text>
-      <text class="txt" y="25" xml:space="preserve">  • TypeScript  [█████░░░░░] 48%</text>
-      <text class="txt" y="50" xml:space="preserve">  • Python      [██░░░░░░░░] 23%</text>
-      <text class="txt pin" y="75" xml:space="preserve">  • Elixir      [█░░░░░░░░░] 8%</text>
+      <text class="txt" y="25" xml:space="preserve">  • TypeScript  [█████░░░░░] 47%</text>
+      <text class="txt" y="50" xml:space="preserve">  • Python      [██░░░░░░░░] 22%</text>
+      <text class="txt pin" y="75" xml:space="preserve">  • Elixir      [█░░░░░░░░░] 10%</text>
       <text class="txt" y="100" xml:space="preserve">  • Other       [██░░░░░░░░] 21%</text>
     </g>
 
