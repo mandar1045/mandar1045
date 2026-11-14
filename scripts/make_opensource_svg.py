@@ -64,6 +64,13 @@ def get_avatar_b64(org):
     # Fallback to the folder icon if fetch fails
     return f'<text class="hl" x="20" y="32">📁</text>'
 
+# What I work on in each project, shown instead of PR counts.
+FOCUS = {
+    "supabase": "Realtime, Auth, Self-hosting",
+    "fossology": "REST API, C agents",
+    "elixir-lang": "Elixir formatter",
+}
+
 def generate():
     org_data = fetch_orgs()
     
@@ -93,18 +100,13 @@ def generate():
         y_pos = 30 + row * 80
         delay = 0.2 + (i * 0.1)
         
-        status_text = ""
-        status_class = ""
-        if counts['merged'] > 0:
-            status_text = f"✓ {counts['merged']} Merged PRs"
-            status_class = "success"
-        elif counts['open'] > 0:
-            status_text = f"⟳ {counts['open']} Open PRs"
-            status_class = "warn"
-        else:
-            status_text = f"• {counts['closed']} Contributions"
-            status_class = "dim"
-            
+        # Where I contribute, not how many PRs: the counts only decide the order.
+        status_text = "✓ Contributor"
+        focus = FOCUS.get(org.lower())
+        if focus:
+            status_text += f" · {focus}"
+        status_class = "success"
+
         avatar_svg = get_avatar_b64(org)
             
         card = f"""
