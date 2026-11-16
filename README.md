@@ -24,12 +24,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mandar1045-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandar1045)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandar%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandar-joshi-0b951b28a/)
 [![X](https://img.shields.io/badge/X-%40Mandarjoshi1045-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mandarjoshi1045)
+[![Sponsor](https://img.shields.io/badge/Sponsor-mandar1045-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mandar1045)
 
 <br><br>
 
 <b>Let's Connect & Collaborate!</b><br />
 <a href="https://mandarjoshi.me">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/mandar-joshi-0b951b28a/">LinkedIn</a> • 
-<a href="mailto:mandarjoshi1045@gmail.com">Email</a>
+<a href="mailto:mandarjoshi1045@gmail.com">Email</a> • 
+<a href="https://github.com/sponsors/mandar1045">Sponsor</a>
 
 </div>
